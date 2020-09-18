@@ -1,6 +1,6 @@
 # Liskov Substitution Principle
 The Liskov Substitution principle, named after Robert Liskov, specifies that 
-subtypes should be immediately substitutable for their base t
+subtypes should be immediately substitutable for their base type.
 
 ## How the Open-Closed Principle is Used in This Example
 The code example [main.cpp](./main.cpp) demonstrates how the Liskov Substitution 
