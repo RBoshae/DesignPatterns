@@ -119,8 +119,9 @@ int main() {
 	AndSpecification<Product> green_and_large(green, large);
 
 	for (auto& item : bf.filter(items, green_and_large)) {
-		cout << item->name << " is green." << endl;
+		cout << item->name << " is green and large." << endl;
 	}
-
+	cout << endl;
+    
 	return 0;
 }
