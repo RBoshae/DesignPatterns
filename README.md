@@ -5,8 +5,8 @@ course [Design Patterns in Modern C++](https://www.udemy.com/course/patterns-cpl
 ## Solid Design Principles
 - [Single Responsibility Principle](./SolidDesignPrinciples/SingleResponsibilityPrinciple/SingleResponsibility.md)
   - A class should only have one reason to change
-  - *Seperation of concerns* - different classes handling different, independent
-    taks/problems.
+  - *Separation of concerns* - different classes handling different, independent
+    tasks/problems.
 - [Open-Closed Principle](./SolidDesignPrinciples/Open-ClosedPrinciple/Open-ClosedPrinciple.md)
   - Classes should be open for extension but closed for modification.
 - [Liskov Substitution Principle](./SolidDesignPrinciples/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.md)
