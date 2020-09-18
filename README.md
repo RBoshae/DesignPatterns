@@ -2,7 +2,7 @@
 A collection of design patterns in modern C++ based on Dmitri Nesteruk Udemy 
 course [Design Patterns in Modern C++](https://www.udemy.com/course/patterns-cplusplus/).
 
-## Solid Design Principles
+## SOLID Design Principles
 - [Single Responsibility Principle](./SolidDesignPrinciples/SingleResponsibilityPrinciple/SingleResponsibility.md)
   - A class should only have one reason to change
   - *Separation of concerns* - different classes handling different, independent
